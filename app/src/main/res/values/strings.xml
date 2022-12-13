@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">emptyApp</string>
+    <string name="logo">Поиск по метариалу</string>
+    <string name="input_material">Введите материал</string>
+    <string name="main_btn">Посмотреть пункты</string>
+    <string name="no_user_input">Введите материал</string>
+    <string name="id">ID</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
